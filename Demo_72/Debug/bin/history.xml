@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="4.8.4 -mcpu=cortex-m4 -mthumb -g -nostartfiles -Map=Demo_72.map -O0 --gc-sections -LC:\CooCox\CoIDE\configuration\ProgramData\Demo_72 -TC:\CooCox\CoIDE\configuration\ProgramData\Demo_72/arm-gcc-link.ld -g">
+      <target file="Demo_72.elf" lastModified="14db9dc2459">
+         <source file="..\obj\semihosting.o" lastModified="14db9dc176c"/>
+         <source file="..\obj\stm32_ub_hcsr04.o" lastModified="14db9dc1875"/>
+         <source file="..\obj\startup_stm32f4xx.o" lastModified="14db9dc18e1"/>
+         <source file="..\obj\stm32_ub_led.o" lastModified="14db9dc197f"/>
+         <source file="..\obj\main.o" lastModified="14db9dc1a80"/>
+         <source file="..\obj\stm32f4xx_rcc.o" lastModified="14db9dc1be5"/>
+         <source file="..\obj\printf.o" lastModified="14db9dc1cf6"/>
+         <source file="..\obj\stm32f4xx_gpio.o" lastModified="14db9dc1dee"/>
+         <source file="..\obj\sh_cmd.o" lastModified="14db9dc1e04"/>
+         <source file="..\obj\system_stm32f4xx.o" lastModified="14db9dc1ecf"/>
+         <source file="..\obj\misc.o" lastModified="14db9dc1f98"/>
+         <source file="..\obj\stm32f4xx_tim.o" lastModified="14db9dc21ec"/>
+      </target>
+   </processor>
+</history>
